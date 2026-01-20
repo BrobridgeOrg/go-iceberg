@@ -4,7 +4,7 @@ package catalog
 import (
 	"context"
 
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 )
 
 // Catalog is the interface for Iceberg catalog operations.

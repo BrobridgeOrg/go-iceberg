@@ -13,8 +13,8 @@ import (
 	"github.com/apache/arrow-go/v18/parquet"
 	"github.com/apache/arrow-go/v18/parquet/compress"
 	"github.com/apache/arrow-go/v18/parquet/pqarrow"
-	"github.com/go-iceberg/go-iceberg/io"
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/io"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 )
 
 // DataWriter writes data files for an Iceberg table.

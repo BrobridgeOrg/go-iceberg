@@ -7,9 +7,9 @@ import (
 	"path"
 	"time"
 
-	"github.com/go-iceberg/go-iceberg/catalog"
-	"github.com/go-iceberg/go-iceberg/io"
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/catalog"
+	"github.com/BrobridgeOrg/go-iceberg/io"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 	"github.com/google/uuid"
 )
 

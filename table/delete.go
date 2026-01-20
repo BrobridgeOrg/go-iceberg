@@ -11,7 +11,7 @@ import (
 	"github.com/apache/arrow-go/v18/arrow/memory"
 	"github.com/apache/arrow-go/v18/parquet/file"
 	"github.com/apache/arrow-go/v18/parquet/pqarrow"
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 )
 
 // DeleteMode specifies the delete strategy.

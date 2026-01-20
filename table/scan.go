@@ -10,7 +10,7 @@ import (
 	"github.com/apache/arrow-go/v18/arrow/array"
 	"github.com/apache/arrow-go/v18/arrow/memory"
 
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 )
 
 // ScanBuilder builds a table scan with various options.

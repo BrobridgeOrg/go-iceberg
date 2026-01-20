@@ -1,4 +1,4 @@
-module github.com/go-iceberg/go-iceberg
+module github.com/BrobridgeOrg/go-iceberg
 
 go 1.24.0
 

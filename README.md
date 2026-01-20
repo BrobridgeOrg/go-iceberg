@@ -19,7 +19,7 @@ A Go library for [Apache Iceberg](https://iceberg.apache.org/) table operations.
 ## Installation
 
 ```bash
-go get github.com/go-iceberg/go-iceberg
+go get github.com/BrobridgeOrg/go-iceberg
 ```
 
 ## Quick Start
@@ -31,9 +31,9 @@ import (
     "context"
     "log"
 
-    goiceberg "github.com/go-iceberg/go-iceberg"
-    "github.com/go-iceberg/go-iceberg/spec"
-    "github.com/go-iceberg/go-iceberg/table"
+    goiceberg "github.com/BrobridgeOrg/go-iceberg"
+    "github.com/BrobridgeOrg/go-iceberg/spec"
+    "github.com/BrobridgeOrg/go-iceberg/table"
 )
 
 func main() {
@@ -515,7 +515,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone the repository
-git clone https://github.com/go-iceberg/go-iceberg.git
+git clone https://github.com/BrobridgeOrg/go-iceberg.git
 cd go-iceberg
 
 # Install dependencies

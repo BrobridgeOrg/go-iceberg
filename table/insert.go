@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/apache/arrow-go/v18/arrow"
-	"github.com/go-iceberg/go-iceberg/io"
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/io"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 )
 
 // InsertOption configures insert operations.

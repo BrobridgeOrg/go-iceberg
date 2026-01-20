@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-iceberg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
 )
 
 // RESTCatalog implements the Iceberg REST Catalog API.

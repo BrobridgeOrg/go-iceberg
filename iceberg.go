@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/go-iceberg/go-iceberg/catalog"
-	"github.com/go-iceberg/go-iceberg/io"
-	"github.com/go-iceberg/go-iceberg/spec"
-	"github.com/go-iceberg/go-iceberg/table"
+	"github.com/BrobridgeOrg/go-iceberg/catalog"
+	"github.com/BrobridgeOrg/go-iceberg/io"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/table"
 )
 
 // Client is the main entry point for go-iceberg operations.

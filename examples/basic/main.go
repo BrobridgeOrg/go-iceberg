@@ -9,9 +9,9 @@ import (
 	"github.com/apache/arrow-go/v18/arrow"
 	"github.com/apache/arrow-go/v18/arrow/array"
 	"github.com/apache/arrow-go/v18/arrow/memory"
-	goiceberg "github.com/go-iceberg/go-iceberg"
-	"github.com/go-iceberg/go-iceberg/spec"
-	"github.com/go-iceberg/go-iceberg/table"
+	goiceberg "github.com/BrobridgeOrg/go-iceberg"
+	"github.com/BrobridgeOrg/go-iceberg/spec"
+	"github.com/BrobridgeOrg/go-iceberg/table"
 )
 
 func main() {
